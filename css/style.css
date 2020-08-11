@@ -470,7 +470,7 @@
 }
 .overlay .close {
     position: absolute;
-    top: 60px;
+    bottom: 55px;
     left: 47%;
     color: white;
     text-shadow: none;
@@ -679,6 +679,7 @@
     }
     .overlay .close {
         left: 32%;
+        bottom: 280px;
     }
     .next, .prev {
         top: 30%;
